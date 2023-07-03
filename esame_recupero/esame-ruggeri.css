@@ -1,0 +1,12 @@
+body {
+  font-family: "Syne", sans-serif;
+}
+
+.navbar navigation {
+  display: flex;
+}
+
+.spiegazione {
+  display: flex;
+  text-align: center;
+}
